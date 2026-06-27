@@ -1,0 +1,13 @@
+{
+  "name": "mn-animat-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Template de site da MN Animat com checkout Mercado Pago para Vercel",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
